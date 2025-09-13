@@ -1,0 +1,7 @@
+customtkinter
+Pillow
+python-dateutil
+plyer
+bcrypt
+tkcalendar
+matplotlib
